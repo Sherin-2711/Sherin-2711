@@ -1,4 +1,4 @@
-# Hi, I'm Sherin Thomas 👋  
+# Hi, I'm Sherin 👋  
 
 ### 💻 Full Stack Developer | 🚀 Tech Explorer  
 
@@ -15,8 +15,9 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,mongodb,python,java,c,cpp,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,javascript,typescript,cpp,python,nodejs,express,mongodb,postgresql,supabase,prisma,websocket,git,postman" />
 </p>
+
 
 ---
 
